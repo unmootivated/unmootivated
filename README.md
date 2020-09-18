@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Welcome to my GitHub page where I post the silly things I've coded for fandom.
 <br>
 (It's too bad none of this helps me IRL.)
+<br><br>
+~~Friendship ended with school, now Stack Overflow and Google are my best friends.~~
 
 
 ### GitHub Stats 📊
