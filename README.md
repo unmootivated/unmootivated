@@ -20,7 +20,8 @@ Welcome to my GitHub page where I post the silly things I've coded for fandom.
 (It's too bad none of this helps me IRL.)
 <br><br>
 ~~Friendship ended with school, now Stack Overflow and Google are my best friends.~~
-
+<br><br>
+All my GitHub code is open-source, but I would appreciate a heads-up if anyone uses any of it.
 
 ### GitHub Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=unmootivated&&show_icons=true&title_color=ffffff&icon_color=DC143C&text_color=FFF0F5&bg_color=151515">
