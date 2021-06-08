@@ -1,27 +1,15 @@
 ## Hello, world! ✨
 
-<!--
-**unmootivated/unmootivated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page~ where I post the code that I can't post on my actual GH page.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Welcome to my GitHub page where I post the silly things I've coded for fandom.
-<br>
-(It's too bad none of this helps me IRL.)
-<br><br>
-~~Friendship ended with school, now Stack Overflow and Google are my best friends.~~
-<br><br>
-All my GitHub code is open-source, but I would appreciate a heads-up if anyone uses any of it.
+- 🔭 I’m currently working on: nothing of importance.
+- 🌱 I’m currently learning: something else of not high importance, probably.
+- 👯 I’m looking to collaborate on: nothing atm. hmu if u got something? no promises tho.
+- 🤔 I’m looking for help with: how to stop procrastinating.
+- 💬 Ask me about: any of the code on here if you need help w/ using it.
+- 📫 How to reach me: not here. DM my Twitter plz.
+- 😄 Pronouns: whatever you want.
+- ⚡ Fun fact: eh.
 
 ### GitHub Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=unmootivated&&show_icons=true&title_color=ffffff&icon_color=DC143C&text_color=FFF0F5&bg_color=151515">
