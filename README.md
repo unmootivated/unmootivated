@@ -9,7 +9,7 @@ Welcome to my GitHub page~ where I post the code that I can't post on my actual 
 - 💬 Ask me about: any of the code on here if you need help w/ using it.
 - 📫 How to reach me: not here. DM my Twitter plz.
 - 😄 Pronouns: whatever you want.
-- ⚡ Fun fact: eh.
+- ⚡ Fun fact: eh. oh, here's <a href="https://youtu.be/AD_TWloJ310">a song</a> that a friend wouldn't stop looping during my undergrad uni days, if anyone wants to listen. (Caution: lyrics are a bit NSFW...)
 
 ### GitHub Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=unmootivated&&show_icons=true&title_color=ffffff&icon_color=DC143C&text_color=FFF0F5&bg_color=151515">
